@@ -4,6 +4,7 @@
  * User: jott
  * Date: 13.05.2017
  * Time: 16:50
+ * Hier ist eine neue Zeile
  */
 
 if( !isset($_GET['name']) )                 // Wenn name = null dann schreibe keinen Namen, unterdrückt Notiz
